@@ -1,0 +1,17 @@
+a{
+    color: blue;
+}
+a:hover{
+    color:yellow;
+}
+h1{
+    color: orange;
+    text-align: center;
+}
+h1:hover{
+    color: yellow;
+}
+#line1{
+    color: aqua;
+    text-align: right;
+}
